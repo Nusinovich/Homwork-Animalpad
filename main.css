@@ -1,0 +1,139 @@
+
+
+.main-menu li{
+list-style-type: none;
+display: inline-block;
+text-align: center;
+margin-left: 5%;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+
+
+
+}
+
+.main-menu ul{
+    text-align: center;
+    padding-left: 0%;
+    margin-top: 50px;
+    position: static;
+    top: 0%;
+}
+
+
+.statment p{
+    color: white;
+    height: 100px;
+    padding:30px;
+    text-align: center;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.statment a{
+    color: white;
+}
+
+p:hover{
+    color:#7bdcb5;
+}
+
+.main-menu a{
+    color: black
+}
+
+.main-menu a:hover{
+    color: green
+
+}
+
+.calendar{
+    text-align: center;
+
+}
+
+.calendar img{
+    width: 40%;
+}
+
+.founder img{
+    width: 1130px;
+    height: 1000px;
+    width: 90%;
+    padding: 1.5%;
+    
+    
+}
+
+.founder{
+    text-align: center;
+}
+
+.images div{
+    display: inline-block;
+    padding: 3.5%;
+    margin: 1%;
+   
+    
+    
+    
+    
+}
+
+.images img{
+    height: 400px;
+    padding: 10%;
+    margin: auto;
+    background-color: black;
+    
+}
+
+.images p{
+    text-align: center;
+}
+
+main{
+    margin: 80px;
+}
+
+main .images{
+    text-align: center;
+    
+}
+
+body{
+    background-color: rgb(240, 233, 233);
+}
+
+main{
+    background-color: white;
+    padding: 20px;
+}
+
+footer{
+    text-align: center;
+    background-color: black;
+   
+}
+
+.footer{
+    padding-top: 50px;
+    width: 100%;
+}
+
+.footer p{
+    color: white;
+}
+
+.footer a{
+    
+    height: 200px;
+}
+
+.footer img{
+    border-radius: 10%;
+    border: solid white;
+    margin: 10px;
+}
